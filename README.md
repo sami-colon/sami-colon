@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">🔭 I’m currently working as freelance MEAN stack web developer.<br> 💬 Ask me about Ethereum blockchain and angular (2+). <br> 📫 How to reach me: abhishek@neweradevelopers.com.</h3>
+<h3 align="center">📫 How to reach me: abhishek@neweradevelopers.com.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami-colon&label=Profile%20views&color=0e75b6&style=flat" alt="sami-colon" /> </p>
 
